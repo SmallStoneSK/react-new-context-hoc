@@ -1,0 +1,22 @@
+{
+  "name": "react-new-context-hoc",
+  "version": "1.0.0",
+  "description": "This is a library offering an idea to resolve the state management problem.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmallStoneSK/react-context-hoc.git"
+  },
+  "keywords": [
+    "react",
+    "context api",
+    "hoc"
+  ],
+  "author": "SmallStoneSK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmallStoneSK/react-context-hoc/issues"
+  },
+  "homepage": "https://github.com/SmallStoneSK/react-context-hoc#readme"
+}
